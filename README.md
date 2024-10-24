@@ -1,7 +1,7 @@
 Hi 👋, I'm Karthik H R
 
 # 💫 About Me:
-🔭 I’m currently working on the MERN stack<br>🤝 I’m looking for Full Stack Job<br>🌱 I’m currently learning  Cloud Computing  & Cyber Security<br>💬 Ask me about MERN Stack, SQL, DSA<br>⚡ Fun fact I'm so open-minded<br>💻 All of my projects are available on GitHub<br>📫 Reach out to me at karthikhrd17@gmail.com<br>📑 Check out my resume here - My Resume  https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/hrk%20of%20Sample.cv.pdf?alt=media&token=444c5b9c-b194-4b34-84b0-6110c8ea0912<br>
+🔭 I’m currently working on the MERN stack<br>🤝 I’m looking for Full Stack Job<br>🌱 I’m currently learning  Data Science & AI ML<br>💬 Ask me about MERN Stack, SQL, DSA<br>⚡ Fun fact I'm so open-minded<br>💻 All of my projects are available on GitHub<br>📫 Reach out to me at karthikhrd17@gmail.com<br>📑 Check out my resume here - My Resume  https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/hrk%20of%20Sample.cv.pdf?alt=media&token=444c5b9c-b194-4b34-84b0-6110c8ea0912<br>
 
 
 ## 🌐 Socials:
